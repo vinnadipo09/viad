@@ -10,7 +10,7 @@
       <v-btn flat>About Us</v-btn>
        <v-btn flat>Login</v-btn>
       <v-btn flat>Link Two</v-btn>
-      <v-btn flat>Link Three</v-btn>
+      <v-btn flat>Charles</v-btn>
     </v-toolbar-items>
   </v-toolbar>
   </div>
