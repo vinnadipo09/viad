@@ -1,5 +1,14 @@
 <template>
   <div class="hello">
+    <div>
+      <HomeHeader/>
+    </div>
+    <div>
+      <v-parallax src="./static/test.jpg"></v-parallax>
+    </div>
+    <div>
+      <h1>Charles is an engineer</h1>
+    </div>
     <h1>{{ msg }}</h1>
     <h2>Essential Links</h2>
     <ul>
@@ -84,12 +93,13 @@
 </template>
 
 <script>
+import HomeHeader from '@/components/shared_components/HomeHeader.vue'
 export default {
   name: 'HelloWorld',
   data () {
-    return {
-      msg: 'Welcome to Your Vue.js App'
-    }
+  },
+  components: {
+    HomeHeader
   }
 }
 </script>
