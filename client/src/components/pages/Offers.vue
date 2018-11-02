@@ -4,7 +4,7 @@
       <HomeHeader/>
     </div>
     <div>
-      <v-parallax src="../static/page8.png">
+      <v-parallax src="../static/page5.jpg">
       </v-parallax>
     </div>
     <div>
