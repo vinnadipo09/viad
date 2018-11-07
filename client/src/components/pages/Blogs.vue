@@ -21,7 +21,7 @@ export default {
   props: [
     'title'
   ],
-   components: {
+  components: {
     HomeHeader,
     Panel,
     Footer

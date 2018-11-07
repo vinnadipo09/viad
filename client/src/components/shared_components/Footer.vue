@@ -36,18 +36,18 @@
 </template>
 
 <script>
-  export default {
-    data: () => ({
-      icons: [
-        'fa fa-facebook-official',
-        'fa fa-instagram',        
-        'fa fa-google-plus',
-        'fa fa-linkedin-square',
-        'fa fa-twitter-square',
-        'fa fa-youtube-square'
-      ]
-    })
-  }
+export default {
+  data: () => ({
+    icons: [
+      'fa fa-facebook-official',
+      'fa fa-instagram',
+      'fa fa-google-plus',
+      'fa fa-linkedin-square',
+      'fa fa-twitter-square',
+      'fa fa-youtube-square'
+    ]
+  })
+}
 </script>
 
 <style scoped>

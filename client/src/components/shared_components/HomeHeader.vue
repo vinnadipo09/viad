@@ -6,52 +6,52 @@
     <v-spacer></v-spacer>
     <v-toolbar-items class="hidden-sm-and-down">
       <div class="toolbuttons ml-2 mr-2 mt-4">
-        <router-link style="text-decoration:none;" to="/offers"> 
+        <router-link style="text-decoration:none;" to="/offers">
           <v-btn flat class="mytoolbarbutton" >Hosting Services</v-btn>
         </router-link>
       </div>
        <div class="toolbuttons ml-4 mr-2 mt-4">
-        <router-link style="text-decoration:none;text-transform:lowercase;" to="/offers"> 
+        <router-link style="text-decoration:none;text-transform:lowercase;" to="/offers">
           <v-btn flat class="mytoolbarbutton" >Order Services</v-btn>
         </router-link>
       </div>
        <div class="toolbuttons ml-2 mr-2 mt-4">
-        <router-link style="text-decoration:none;" to="/offers"> 
+        <router-link style="text-decoration:none;" to="/offers">
           <v-btn flat class="mytoolbarbutton" >Offers</v-btn>
         </router-link>
       </div>
        <div class="toolbuttons ml-2 mr-2 mt-4">
-        <router-link style="text-decoration:none;" to="/offers"> 
+        <router-link style="text-decoration:none;" to="/offers">
           <v-btn flat class="mytoolbarbutton" >Android/iOS</v-btn>
         </router-link>
       </div>
        <div class="toolbuttons ml-2 mr-2 mt-4">
-        <router-link style="text-decoration:none;" to="/offers"> 
+        <router-link style="text-decoration:none;" to="/offers">
           <v-btn flat class="mytoolbarbutton" >Hosting Services</v-btn>
         </router-link>
       </div>
        <div class="toolbuttons ml-2 mr-2 mt-4">
-        <router-link style="text-decoration:none;" to="/offers"> 
+        <router-link style="text-decoration:none;" to="/offers">
           <v-btn flat class="mytoolbarbutton" >Web</v-btn>
         </router-link>
       </div>
        <div class="toolbuttons ml-2 mr-2 mt-4">
-        <router-link style="text-decoration:none;" to="/offers"> 
+        <router-link style="text-decoration:none;" to="/offers">
           <v-btn flat class="mytoolbarbutton" >Pricing</v-btn>
         </router-link>
       </div>
        <div class="toolbuttons ml-2 mr-2 mt-4">
-        <router-link style="text-decoration:none;" to="/offers"> 
+        <router-link style="text-decoration:none;" to="/offers">
           <v-btn flat class="mytoolbarbutton" >Help</v-btn>
         </router-link>
       </div>
        <div class="toolbuttons ml-2 mr-2 mt-4">
-        <router-link style="text-decoration:none;" to="/offers"> 
+        <router-link style="text-decoration:none;" to="/offers">
           <v-btn flat class="mytoolbarbutton" >Register</v-btn>
         </router-link>
       </div>
        <div class="toolbuttons ml-2 mr-2 mt-4">
-        <router-link style="text-decoration:none;" to="/offers"> 
+        <router-link style="text-decoration:none;" to="/offers">
           <v-btn flat class="mytoolbarbutton" >Login</v-btn>
         </router-link>
       </div>
