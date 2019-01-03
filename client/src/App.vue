@@ -27,4 +27,7 @@
 .danger-alert {
   color: red;
 }
+p, h1, h2, h3{
+  color: black!important;
+}
 </style>
